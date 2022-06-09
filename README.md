@@ -1,5 +1,7 @@
 # Weather-Forecast-app
-
+<h4>IMPORTANT NOTE <h4>
+<p><strong> Get API Key to access the weather details data.</strong> </p>
+   
 <h2> Overview </h2>
 <p>A simple application for Weather Forecast. </p>
 <p> User can search about the weather for a particular city or use their current location by clicking on "Find Your Location" button. </p>
