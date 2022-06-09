@@ -11,6 +11,7 @@ HTML, CSS, JavaScript,
 <p>https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API API used for getting the current location.</p>
   
 <h2> Screenshots </h2>
+
 ![image](https://user-images.githubusercontent.com/101567902/172958829-fab6de29-97ac-4141-87f3-a15e0277487d.png)
 
 ![image](https://user-images.githubusercontent.com/101567902/172958848-c3291ba0-e6eb-4001-835d-f1c1fdc32984.png)
